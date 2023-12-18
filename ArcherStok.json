@@ -1,0 +1,12 @@
+{
+    "Health":120,
+    "AttackPower":75,
+    "PhysicalAttackPower":75,
+    "MagicalAttackPower":20,
+    "ResistanceToPhysical":30,
+    "ResistanceToMagical":30,
+    "CriticalChance":40,
+    "DodgeChance":75,
+    "heal":0,
+    "UltimateAttack":0
+}
